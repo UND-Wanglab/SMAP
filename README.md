@@ -17,3 +17,5 @@ Sex information is not necessary but having both genetics-based and reported sex
 You can visit the Shiny platform https://smap.shinyapps.io/smap/
 
 You can visit the github https://github.com/XWangLab/SMAP
+
+More information could be found in https://sites.google.com/view/smapwanglab/home
