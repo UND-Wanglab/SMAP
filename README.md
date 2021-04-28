@@ -1,6 +1,6 @@
 # SMAP
 README.md
-Welcome to SMAP (Sample Matching for Large-scale Protomomics)!
+Welcome to SMAP (A Pipeline for Sample Matching in Proteogenomics)!
 
 SMAP is a pipeline to validate and correct sample identity based on a combination of concordance and specificity scores. SMAP first detects variant peptides from multiplexed isobaric labeling-based quantitative proteomics data using the proteogenomics approach, and then infers allelic information for each sample based on its expression level of the variant peptides.
 
