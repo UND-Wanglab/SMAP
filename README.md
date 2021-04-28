@@ -8,9 +8,7 @@ Highlights
 
 use mutant peptide to get the peptide's chromosome and start position
 
-use the peptide's chromosome and start position to extract the corresponding reference peptides in the file of
-
-extract quantification data from both reference and mutation peptides from the file of quantity results of peptides.
+use the peptide's chromosome and start position to extract the corresponding reference peptides in the file of extract quantification data from both reference and mutation peptides from the file of quantity results of peptides.
 
 Sex information is not necessary but having both genetics-based and reported sexes will help identify true IDs.
 
