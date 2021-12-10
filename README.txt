@@ -1,4 +1,7 @@
-SMAP_V1.0.0
+SMAP Version v1.0.0 
+
+DOI: 10.5281/zenodo.5770632	
+
 ----------------------
 Contents of this file
 ----------------------
